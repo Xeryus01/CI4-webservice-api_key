@@ -1,5 +1,9 @@
 ## CI4-webservice-api_key
-# TO print JSON
+
+# Migrate database
+php spark migrate
+
+# To print JSON
 get all item --> http://localhost:8080/api/get?api_key=
 
 create item --> http://localhost:8080/api/create?api_key=
