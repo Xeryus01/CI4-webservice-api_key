@@ -6,7 +6,7 @@ use CodeIgniter\Model;
 
 class TeleponModels extends Model
 {
-    protected $table = 'new_telepon';
+    protected $table = 'telepon';
     protected $primaryKey = 'id';
     protected $allowedFields = [
         'nama', 'nomor'
