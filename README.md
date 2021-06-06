@@ -3,7 +3,7 @@
 ## Migrate database
 php spark migrate
 OPTIONAL  
-    5. Database pakai migration 
+    5. Database pakai migration \n
     - php spark migrate
     - php spark db:seed DataSeeder
 OR  
