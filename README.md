@@ -3,8 +3,10 @@
 ## Migrate database
 php spark migrate
 OPTIONAL  
-    5. Database pakai migration \n
+    5. Database pakai migration
+    
     - php spark migrate
+    
     - php spark db:seed DataSeeder
 OR  
     5. Import DB dari ...\riset5\new.sql
