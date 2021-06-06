@@ -2,6 +2,7 @@
 
 ## Migrate database
 php spark migrate
+- halo
 
 ## To print JSON
 get all item --> http://localhost:8080/api/get?api_key={:num}
